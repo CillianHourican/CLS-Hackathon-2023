@@ -1,9 +1,29 @@
-# CLS-Hackathon-2023
+# Computational Science Modelling Hackathon 2023
 
-## General Rules
-You have untill 17:45 to work on your model in teams. You can stay in the lecture room or somewhere nearby. At 17:45 everybody comes back to the lecture room and we start presenting the results. Every team only has about 5 minutes to show interesting results and things they did, so use your time wisely! Try to put an emphasis on visualisation of your results, as this is the quickest way to get information across.
+## Awards: 
 
-Cillian, Parva and Lera will hang out in the lecture room to answer your questions. During work, you can stay in the lecture room or work with your teammates nearby. For the coding and modelling, you are free to use any programming language, toolkit and visualization tool (as long as it's your own work). For the presentation part, all visualization forms are allowed if you can share it with the audience. Lera and Cillian will judge your work and presentation and award prizes for the winners.
+We will award two prizes to the best teams (based on voting):
+    1st prize: 50 Euro voucher 
+    2nd prize: 25 Euro voucher 
+The vouchers can be used to celebrate your success with some drinks and snacks in the Oerknal/Polder(????)
+
+## Schedule and location:
+
+15:00-17:45 you can work in four rooms SP L1.07, L1.12, L2.06, L2.07
+17:45 pizza and drinks outside the lecture room L1.01
+18:00-18:45 your 5-min presentation in room SP L1.01 
+
+## General idea:
+
+You will work in teams of 4 students. Please register your team on Canvas (People - Groups - Hackathon teams)
+  
+We booked 4 rooms, so the teams can sit at some distance from each other and talk without disturbing others. Please pick any room you like, avoid overcrowding. We will visit these 4 rooms to answer your questions. 
+
+You are free to use any programming language, toolkit and visualization tool. 
+
+## Presentation: 
+
+At 18:00 you will present the results. Every team will have only about 5 minutes. Try to visualise your results, as this is the quickest way to get information across. After the presentations, everybody can vote for the best team. Based on the voting results, we will award prizes to the winners. 
 
 If you have questions at any point, feel free to ask. Happy modelling!
 
