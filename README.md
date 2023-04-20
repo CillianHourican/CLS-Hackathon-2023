@@ -29,7 +29,7 @@ If you have questions at any point, feel free to ask. Happy modelling!
 
 # Introduction:
 
-Social interactions play a critical role in shaping opinions, beliefs, and behaviors of individuals. In recent years, there has been growing interest in developing models to better understand how social influence works and how it can be harnessed to promote positive change in communities. In this hackathon, participants will explore the dynamics of social influence on alcohol consumption or obesity (you choose!) using a simple agent-based model.
+Social interactions play a critical role in shaping opinions, beliefs, and behaviors of individuals. In recent years, there has been growing interest in developing models to better understand how social influence works and how it can be harnessed to promote positive change in communities. In this hackathon, participants will explore the dynamics of social influence on alcohol consumption using a simple agent-based model.
 
 ## Description:
 
